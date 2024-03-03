@@ -1,18 +1,15 @@
-# User-Managment App
+# User-Management App
 
-A robust User managment use=ing node js and express framework with ejs view engine and backend using mongodb
+Welcome to the User-Management App, a robust solution built with Node.js and Express, featuring the EJS view engine and MongoDB for the backend.
 
 ## Table of Contents
 
-- [Technologies Used](#TechnologiesUsed)
-- [Features](#Features)
-- [Screenshots](#screenshot)
-- [Installation](#instalaltion)
-
-
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
 
 ## Technologies Used
-
 
 - Node.js
 - Express
@@ -22,19 +19,16 @@ A robust User managment use=ing node js and express framework with ejs view engi
 
 ## Features
 
- User Side:
+### User Side:
 
-- User can create an account and login securely.
-- User can add, delete, and update contact information.
-- Profile picture uploading and editing functionality.
+- **Secure Authentication:** Users can create an account and login securely.
+- **Contact Management:** Add, delete, and update contact information.
+- **Profile Customization:** Profile picture uploading and editing functionality.
 
+### Admin Side:
 
-Admin Side:
-
-- Admin dashboard with a list of users.
-- Admin can add new users.
-- User management: blocking, unblocking, and editing user profiles.
-
+- **Admin Dashboard:** Access a dashboard with a list of users.
+- **User Management:** Admins can add new users and perform actions such as blocking, unblocking, and editing user profiles.
 
 
 ## Screenshots
